@@ -1,0 +1,2 @@
+com/selenium/draganddrop/test/DragAndDropClassTest.java
+ com.selenium.draganddrop.test.DragAndDropClassTest
